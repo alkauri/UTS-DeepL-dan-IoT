@@ -58,6 +58,9 @@ desktop.ini
 *.sublime-project
 *.sublime-workspace
 
+# Project-specific excludes
+ai_agent_execution_plan.txt
+
 # Logs
 *.log
 logs/
