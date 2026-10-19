@@ -132,4 +132,4 @@ python cnn_model.py
 
 - **Mata Kuliah**: Deep Learning dan IoT
 - **Jenis Tugas**: UTS (Ujian Tengah Semester)
-- **Metode**: AI Agent-assisted Development
+
