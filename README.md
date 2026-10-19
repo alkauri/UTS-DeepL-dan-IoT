@@ -1,4 +1,4 @@
-# UTS Deep Learning dan IoT — AI Agent Study Cases
+# UTS Deep Learning dan IoT —  Study Cases
 
 Repositori ini berisi 6 studi kasus yang dikerjakan menggunakan AI Agent sebagai bagian dari UTS mata kuliah **Deep Learning dan IoT**.
 
